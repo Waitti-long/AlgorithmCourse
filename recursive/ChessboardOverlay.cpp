@@ -14,6 +14,7 @@ int idx = 1;
 void solve(int x, int y, int size) {
     memset(g, 0, sizeof g);
     g[x][y] = -1;
+    idx = 1;
     chess_board(0, 0, x, y, size);
     print(4);
 }

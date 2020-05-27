@@ -5,6 +5,9 @@
 #ifndef ALGORITHMCOURSE_CHESSBOARDOVERLAY_H
 #define ALGORITHMCOURSE_CHESSBOARDOVERLAY_H
 
+/*
+ *棋盘覆盖
+ * */
 void chess_board(int tr, int tc, int dr, int dc, int size);
 void print(int size);
 void solve(int x, int y, int size);
