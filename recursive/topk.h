@@ -6,13 +6,8 @@
 #define ALGORITHMCOURSE_TOPK_H
 
 #include <bits/stdc++.h>
+#include "../utils/base.h"
 
-/*
- * use func to choose use which select_func
- * func == 0 : select 0
- * func == 1 : select random
- * func == 2 : select mid
- * */
-void select(int *a, int l, int r, int k, int func);
+int solve(int a[], int l, int r, int k, int sel);
 
 #endif //ALGORITHMCOURSE_TOPK_H

@@ -5,6 +5,8 @@
 #ifndef ALGORITHMCOURSE_CHESSBOARDOVERLAY_H
 #define ALGORITHMCOURSE_CHESSBOARDOVERLAY_H
 
+#include <bits/stdc++.h>
+
 /*
  *棋盘覆盖
  * */

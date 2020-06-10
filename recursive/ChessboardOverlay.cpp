@@ -1,7 +1,6 @@
 //
 // Created by Waitti on 2020/5/11.
 //
-#include <bits/stdc++.h>
 #include "ChessboardOverlay.h"
 
 using namespace std;

@@ -7,7 +7,7 @@
 
 #include <algorithm>
 #include <memory.h>
-
+#include <bits/stdc++.h>
 /*
  * 矩阵连乘问题
  * */

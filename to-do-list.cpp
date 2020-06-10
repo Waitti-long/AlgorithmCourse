@@ -1,4 +1,6 @@
 /*
  * TODO
  * fft
+ * image compression
+ *
  * */
